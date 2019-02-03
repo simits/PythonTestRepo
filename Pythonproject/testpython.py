@@ -1,6 +1,4 @@
-#Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
-
-
+#simits
 
 print ('Hello world!')
 
